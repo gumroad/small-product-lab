@@ -1,0 +1,7 @@
+# Site settings
+title: Gumroad's Small Product Lab
+description: Content for Gumroad's Small Product Lab.
+baseurl: /small-product-lab
+
+# Build settings
+markdown: kramdown

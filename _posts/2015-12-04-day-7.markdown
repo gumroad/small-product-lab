@@ -1,0 +1,45 @@
+---
+title: "Day 7: Decoding the pricing puzzle"
+meta: Use this framework to decide on your price.
+image: day-7-illustration.jpg
+layout: post
+---
+
+I wish I could give you a golden rule for pricing your product, but the truth is that it’s more art than science. You have to test, learn, and iterate. However, there are some guidelines you can use to make a good decision.
+
+### Your Goals
+
+Take another look at the goals you defined on day 1. Be honest with yourself about whether it’s more important to grow your audience or maximize revenue, because there’s a tradeoff between the two.
+
+To illustrate this, let’s look at a case study of two anonymous Gumroad creators. Both sold packs of around 100 icons. Both had a similar number of followers on Dribbble. But while one charged $0+ (pay what you want) for their product, the other put a price tag of $19 on theirs.
+
+Let’s look at the results:
+
+The contrast is staggering. While Creator 1 captured almost 20 times more emails than Creator 2, Creator 2 made 10 times more money. Which outcome resonates more with you?
+
+Sidenote: this tradeoff is why many creators have a suite of products, ranging from low (like an ebook) to high (like a course). Different products for different purposes.
+
+### Your target market and product type
+
+Consider the life situation of your audience. Think about their job, their aspirations, what's important to them. How does your product fit in? What will they be willing to spend on it?
+
+For example, if your product is for students, you have to factor in that they typically don’t have a lot of disposable income. However, if your product is something that will make people better at their jobs, they will be willing to spend more. Here's author Nathan Barry on how he thought about pricing for [The App Design Handbook](http://nathanbarry.com/app-design-handbook/):
+
+> My books are used by software professionals around the world to improve their products. Often these products are used by tens of thousands of customers. By teaching design skills to these professionals, their abilities and ultimately what they produce improves substantially. This means their companies make more money and they get paid more.
+
+So, what’s the rough formula for pricing? Look for a price that is accessible to your audience while still achieving your personal goals. Then test and tweak.
+
+### Incentives
+
+Pricing is also a tool to encourage people to buy and reward your early supporters. Common ways to frame the incentive are:
+
+* Discount for pre-ordering, then regular price on launch day.
+* Discount for purchases within first x days of launch.
+* Cheaper price for version 1. Price goes up when version 2 is released.
+
+To Do: #SPLDay7
+------------------------------------------------------------
+
+Decide on your price and incentives. Post your decision in the Assignment Log and the Facebook group for feedback.
+
+This was another quick assignment so you can focus on producing today. The next few days will be pretty intense as you bring all the pieces together, so use today to get yourself in a good position!

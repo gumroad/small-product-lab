@@ -1,0 +1,79 @@
+---
+title: "Day 10: Reach out"
+meta: Hit up people to help you spread the word for tomorrow's launch!
+image: day-10-illustration.jpg
+layout: post
+---
+
+Today's lesson is brought to you by Justin Jackson. In addition to building several products, such as The Product Hunt Handbook, he hosts two podcasts and writes extensively. Check him out at [JustinJackson.ca](http://www.justinjackson.ca).
+
+To-Do: #SPLDay10
+------------------------------------------------------------
+
+You’ve been heads down working on your project. It’s time to wrap it up, execute your launch plan, and get ready to put your work out into the world.
+
+We know that reaching out to people and asking them to help you promote can be daunting sometimes, so here are a few sample emails that you can use.
+
+### 1. Reach out to your street team
+
+If you haven’t already, now is the time to reach out to friends and influencers in your community and ask them if they’ll help share your project when you launch. You could write something like:
+
+> Hi [name],
+> 
+> I just finished reading your blog post on [topic]. I loved it! In fact, it was the inspiration for something I’m launching tomorrow called [project]. I’ve been doing Gumroad’s Small Product Lab (https://gumroad.com/smallproductlab) , where I’ve been trying to build and launch a product in 10 days.
+> 
+> Tomorrow’s launch day! I’m wondering if you could help me get the word out? Here is [a pre-formatted tweet](https://twitter.com/intent/tweet?text=Like%20to%20make%20stuff%3F%20%40mijustin%20is%20selling%20everything%20in%20his%20store%2040%25%20off%20today.%20Use%20%E2%80%9Cjustinturned35%E2%80%9D%20to%20get%2040%25%20off!%20http%3A%2F%2Fgumroad.com%2Fmijustin&source=webclient). I’ve also attached a sample for you to check out.
+> 
+> Thank you so much!
+> 
+> [Your name]
+
+You may also want to approach people individually about submitting your product to directories like Product Hunt, Hacker News, Sidebar, etc. on launch day. Those communities can drive a lot of traffic to your landing page!
+
+### 2. Remind your launch list
+
+If you’ve been building a launch list, it’s really important that you prepare them for the launch. When they wake up tomorrow morning, you want them to be thinking about your product. You also want to create a sense of urgency: this can be accomplished through a special launch day promotion.
+
+Here’s a sample reminder email, if you haven’t already started promoting a pre-order:
+
+> Hi there!
+> 
+> I can't wait for tomorrow!
+> 
+> Tomorrow is the launch of [your product].
+> 
+> [Information about your product]
+> 
+> You'll be able to purchase it at 10am Pacific on October 8th. I'll send you the link tomorrow once it's live.
+> 
+> Also, I'm running a launch sale just for you: for tomorrow only, you'll be able to get [your product] 30% off the regular price. You'll need to act quick: that deal will expire 24 hours after launch!
+> 
+> Have questions? Just reply to this email.
+> 
+> Talk to you tomorrow!
+> 
+> [Your name]
+
+### Dealing with the pre-launch jitters
+
+* Remember that everyone feels this way. Even experienced creators have that moment of panic before they launch.
+* Go back to your original inspiration: what inspired you to make this in the first place? If you were trying to solve a particular problem, for a particular person, revisiting your motivation can help lift your spirits!
+* Ask yourself: what’s the worst thing that could happen? For most people the worst things are: “nobody buys my product” and “people buy, but don’t like it.” But once you’ve named those fears out loud, it’s easier to deal with them.
+
+> If you imagine, clearly and frequently, the worst case scenario, you can work on coming to terms with its consequences. Usually they’re far less dire than your worries would lead you to believe.
+
+David Heinemeier Hansson, from [Accepting the worst](https://signalvnoise.com/posts/3804-accepting-the-worst)
+
+### Remember: Your launch doesn't need to be perfect
+
+The most important thing you need to remember is that your launch doesn’t need to be perfect. You can have multiple launches!
+
+> If you launch and no one notices, launch again. We launched 3 times.
+
+Brian Chesky, Co-Founder, Airbnb
+
+I once launched a workshop that only sold 25% of the tickets. I was deflated! My wife suggested that I just launch again, the next day. For whatever reason, the following day everything clicked: the tickets sold out within a matter of hours.
+
+The important thing is you’ll have done something that very few people do: put something out into the world. That in itself is a great achievement!
+
+Now let's get back to work. There's no assignment to submit for today because you have a big enough day ahead of you tomorrow!

@@ -1,0 +1,57 @@
+---
+title: "Day 5. Package it up"
+meta: Produce the sales copy, images, and other assets you’ll need for launch.
+image: day-5-illustration.jpg
+layout: post
+---
+
+Package it up
+------------------------------------------------------------
+
+Today you’re getting your essential marketing assets together. Why are we doing this before you've even finished your product? Two reasons: 1) this gives you time to find design or copywriting help (check out [Fiverr](https://www.fiverr.com/)) if you want to go that route, and 2) it will help you clarify and focus your product even more.
+
+To Do: #SPLDay5
+------------------------------------------------------------
+
+### 1. Write your product description
+
+The number one rule of sales copywriting is to focus on your customer. All too often creators start by talking about themselves or their product. Instead, put yourself in the background and show that you understand your customer first.
+
+Here’s a formula to guide your writing (we use the same example as in [The Anatomy of an Effective Product Page](https://gumroad.com/resource-center/anatomy-of-an-effective-product-page) guide, which has more great tips):
+
+- What is the pain point your specific audience has?
+
+"Do you have a blog, landing page, or site that’s not getting traction? Looking to build a larger audience?"
+
+- What will your product do for them? How will it make them more awesome?
+
+"This course will show you how to get your content distributed to bigger audiences by tapping into the right networks."
+
+- Why should they buy it from you? Mention testimonials, interviews, successes, ratings, press quotes, awards, number of copies sold, etc.
+
+"After reading Amplification and the Hacker News Handbook, I was able to..."
+
+- What exactly will they get when they buy?
+
+"Package includes a 50 page PDF eBook + the Hacker News Handbook PDF (24 pages + 4 videos + Excel worksheet + bonus materials."
+
+### 2. Create your cover image
+
+Unless you’re a designer, save yourself a lot of hassle and just use Canva for your product cover. It’s a fantastic tool for creating powerful imagery fast.
+
+1. Create a [Canva account](https://www.canva.com/).
+2. Under Create a design, select More and choose any layout that is a horizontal rectangle (like "Presentation" or "Blog Title"). We recommend rectangular images with a ratio of 4:3 or 16:9.
+3. Start with a template, then customize the text and background (refer back to the style resources from Day 4).
+4. Many designs are free, but some cost $1-2 to download. If you choose a paid one, download it for free with the watermark first to test it out.
+
+### 3. Create a pre-order
+
+Put all the pieces together as a pre-order product on Gumroad. Pre-orders allow you to make sales before your product is ready. See our Help Center for [how to create a pre-order](https://gumroad.com/help/preorders) and [customize it](https://gumroad.com/help/customizing-your-product).
+
+Share your pre-order on the Assignment Log and post it to the Facebook Group for feedback and help spreading the word (use #SPLDay5). Who knows, you may even find your first customer there!
+
+#### A Note on Landing Pages vs. Pre-orders
+
+Customers don't usually feel comfortable taking out their credit cards the first time they hear about you. But giving their email address is a much smaller ask. Use your landing page to capture followers, then nurture that relationship by giving them a lot of value in return (a bonus for signing up, educational emails, etc.). When it comes time to ask for the sale, they'll be much more likely to buy.
+
+Pre-orders are still sales, even though your customers aren't being charged immediately. Use pre-orders to send to your existing followers before your product is complete.

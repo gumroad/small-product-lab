@@ -1,0 +1,92 @@
+---
+title: "Day 3: Set up your profile"
+meta: Make a home for your product on the web.
+image: day-3-illustration.jpg
+layout: post
+---
+
+The Landing Page
+------------------------------------------------------------
+
+You've planned out each step to finishing your product. Now it's time to start actually making it AND start telling people about it.
+
+Yes, even though you're not finished, or may just be starting, you can create a landing page and spread the word. A landing page is a simple webpage with an email opt-in for people who are interested in learning more about your product.
+
+Note: If you already have an email list you can skip this step. Instead, send your subscribers an email to let them know that you're working on something awesome.
+
+To Do: #SPLDay3
+------------------------------------------------------------
+
+### 1. Set up your landing page
+
+Gumroad's Audience feature lets you create a simple landing page in seconds.
+
+To use Audience, visit your [Gumroad Profile](http://gumroad.com/profile) (click "Profile" from the navigation bar while logged in to your Gumroad account). If you don't have any Gumroad products yet, you'll be taken directly to a full screen landing page. If you do have at least one Gumroad product, you have two options:
+
+1. Create a full size landing page at gumroad.com/yourusername/follow.
+2. Add a call to action above your existing product(s) on your [Profile](https://gumroad.com/profile).
+
+### 2. Name your product
+
+If you don't have a name for your product yet, check out [this helpful article](http://blog.gumroad.com/post/107466562903/whats-in-a-name) on the Gumroad blog. Another good formula comes from blogger [Regina Anaejionu](http://byregina.com/), who says there's three basic options for titles:
+
+* Epically simple ("Balance")
+* Epically descriptive ("The Yoga Workshop for Emotional Healing")
+* Epically simple, with an epically descriptive subtitle (Balance: The Yoga Workshop for Emotional Healing")
+
+### 3. Write the copy
+
+The number one rule of landing page copywriting is to focus on your customer. Make sure they know right away that your email list is relevant to them specifically. Put their problems and dreams front and center. Here's a formula to guide you:
+
+1. Who's your audience and what do they want?
+2. Who are you? (try to limit to one sentence!)
+3. Why should someone sign up? (what's the incentive?)
+
+#### Examples:
+
+Emily Spady
+
+> Hey beginner yogis! I'm an RYT 500 certified yoga teacher based in San Francisco. On August 6th I'm launching a guide to basic yoga alignment that will give you the foundation you need to master most poses. Sign up to get weekly yoga tips plus a discount on the guide when it comes out!
+
+Chris Hawkins
+
+> Hi, I'm Chris (nice to meet you!), host of the @chasingproduct bootstrapping podcast. Want to start a podcast but don't know where to start? I'm writing "Record & Release," a guide that will help you start your very own show in just one day. Follow along and I'll tell you all about it!
+
+Check out our [Gumroad Picks: Landing Pages](http://blog.gumroad.com/post/122970970868/gumroadpickslandingpages) post for more great examples of landing pages.
+
+### 4. Give it some style
+
+Add a logo or photo, a background, and a highlight color to your landing page.
+
+#### Style resources
+
+Free icons and logos:
+
+* [The Noun Project](https://thenounproject.com/)
+* [Feather: 130 Free Icons](https://gumroad.com/l/feather)
+* [Hipster Logo Generator](http://www.hipsterlogogenerator.com/)
+
+Free photos:
+
+* [Death to the Stock Photo](http://deathtothestockphoto.com/)
+* [Unsplash](https://unsplash.com/)
+
+Color inspiration:
+
+* [Pictaculous](http://www.pictaculous.com/)
+* [Wes Anderson Palettes](http://wesandersonpalettes.tumblr.com/)
+* [Paletton.com](http://paletton.com/)
+
+### 5. Create a triggered thank you email
+
+Set up an automated email to welcome each new subscriber and thank them for signing up. This is easy to do [on Gumroad](http://gumroad.com/help/workflows), or on any platform of your choice.
+
+### 6. Get subscribers!
+
+Start telling people about what you're working on! Post your landing page on social media, email it to your friends, and plug it into your email signature.
+
+You can also link to it in your social media bio, which is an untapped gold mine of email signup potential. Check out [Austin Kleon's](https://twitter.com/austinkleon) link in his Twitter bio and [Taylor Swift's](https://www.facebook.com/TaylorSwift) signup button (which is just a link) on her Facebook cover photo.
+
+Finally, post your landing page to the Assignment Log and Facebook group with the tag #SPLDay3. Make sure to follow and give other people feedback on their landing pages as well.
+
+That's enough distraction from creating your product for today. This was a big step, so congratulate yourself on a job well done!

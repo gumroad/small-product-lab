@@ -1,0 +1,77 @@
+---
+title: "Day 1: What's your product?"
+meta: Learn how to generate, then narrow down, product ideas.
+image: day-1-illustration.jpg
+layout: post
+---
+
+What's the ideal small product?
+------------------------------------------------------------
+
+1. Something you can produce in about a week. Don't forget to budget at least 5 hours for some marketing and sales work (creating your landing page, cover image, sales copy, etc.).
+2. Extremely specific. For example, instead of "How to paint 3D game characters," try "How to paint noses for 3D game characters."
+3. In an area that you already have some knowledge or skill in. You're already learning something new by doing this challenge, so don't burden yourself with two new things to learn. Again, embrace constraints!
+
+Below are some examples. Be sure to also check out the Small Product Lab Collections [June](https://gumroad.com/smallproductlab/creators) and [July](https://gumroad.com/smallproductlab/creators/july2015) and the winners from the previous Small Product Labs [June](http://blog.gumroad.com/post/122516392483/splwinner) and [July](http://blog.gumroad.com/post/126554894283/small-product-lab-july-2015) for inspiration.
+
+**Tools:** Excel templates, Photoshop brushes, icons, small apps.
+
+**Educational:** "10 Vegan Sushi Recipes", "Introduction to Git", "8 Quick High Intensity Workouts."
+
+**Arts and Entertainment:** Short comics or stories, small artwork or photography, small games.
+
+**Physical Goods:** T-shirts, stickers, tote bags, mugs. Check out our [integration with Printful](https://help.gumroad.com/customer/portal/articles/1971826-using-gumroad-and-printful) to handle on-demand printing, fulfillment, and shipping.
+
+
+To Do: #SPLDay1
+------------------------------------------------------------
+
+### 1. Read up
+
+Read [this post](http://blog.gumroad.com/private/121659033243/tumblr_nq124sqbyW1r6sqli) by Chase Reeves, co-founder of Fizzle, to get you in the right mindset for choosing your audience and product.
+
+### 2. Brainstorm themes
+
+Write down as many answers to the following questions as you can. There's no wrong answer at this point.
+
+* Think of one person in your life. What do they struggle with?
+* What are some things I really care about in my personal life? My professional life? My creative life?
+* What do I read a lot of books and articles about?
+* What do I know a lot about?
+* What do people ask me for help with?
+* What do people compliment me on?
+
+### 3. Create a spreadsheet
+
+Now it's time to come up with specific small product ideas. Make a spreadsheet for yourself, and fill out each column with the following:
+
+* Column A: The themes you came up with from step 1.
+* Column B: At least 3 small product ideas for each theme. As you're writing down ideas, ask yourself: Is there a smaller part of this that I could focus on? and What would it look like if I cut this in half?
+* Column C: The niche this product is for.
+
+Click [here](https://docs.google.com/spreadsheets/d/1h52tTCPTrcOCXsSMTGI5LyQ9pRzvPmzfeBXPov4x0T0/edit#gid=0) to see a sample spreadsheet.
+
+### 4. Decide on a product
+
+Fill out four more columns next to each product idea on your spreadsheet:
+
+* Column D: Rate how fast you can complete each idea from 1-5 (5 being the fastest).
+* Column E: Rate how excited you are about it from 1-5 (5 being the most excited).
+* Column F: The sum of D + E.
+* Column G: Does this product idea align with your "reason why" that you determined yesterday?
+
+Choose the highest ranked idea that fits your reason why. Don't worry, those other ideas aren't going anywhere. Commit to working on just this ONE thing for the next 10 days.
+
+### 5. Share it
+
+The best way to make sure you stick to something is to publicly commit to it.
+
+In the Facebook group, share your product idea and say why you chose it using the tag #SPLDay1. Give feedback to others on their product choices as well. We know that this step is one of the hardest, so we've assembled a team of Alumni Mentors to help you though it. We'll introduce them in the Facebook group today.
+
+Put a short description (less than 25 words) of your product idea in the assignment log].
+
+It's also a great idea to build buzz and let your existing audience know that you're working on something. Send them a quick email and/or tweet something simple like:
+
+> I'm creating  _______ for the #SmallProductLab. Here we go! #SPLDay1
+
+[Tweet this](http://ctt.ec/fsK7e)

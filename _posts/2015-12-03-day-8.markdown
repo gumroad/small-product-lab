@@ -1,0 +1,114 @@
+---
+title: "Day 8: Prep for launch day"
+meta: Strategize your game plan for getting your product out there.
+image: day-8-illustration.jpg
+layout: post
+---
+
+_Note: We've been impressed by all the great entries for the Mid-Lab Challenge. We'll be announcing the winner tomorrow. Thanks for your patience!_
+
+[Dorian Iten](http://www.dorian-iten.com/) is a Swiss painter currently living in Puerto Rico and about to move to Barcelona. He's been teaching drawing for two online schools over the last 5 years. [Accuracy: A Drawing Guide](http://www.dorian-iten.com/accuracy/) was his first product launch.
+
+Dorian started Fizzle's [30-Day "Just Ship It!" Challenge](https://fizzle.co/just-ship-it-challenge), which we highly recommend. Around day 20 he also started the Small Product Lab and combined the guidance in both challenges to launch his product. Even though Dorian didn't produce the product in exactly 10 days, the lessons he learned through both challenges were invaluable, so we asked if he wouldn't mind sharing them with you.
+
+### How did you decide on the topic and format for Accuracy?
+
+To find ideas, I reached out to current and former students and shared that I had taken on the challenge and was on the clock. I asked what they are currently struggling with, and what they would like to see me do.
+
+I also took an hour and wrote out a big list of all the possible ideas, focusing on quantity over quality (no censorship, when in doubt, write it out.) I then tried to bring some order to the chaos and found the following clusters:
+
+* Format: ebook, email course, coaching sessions, etc.
+* Audience: artists, former students, friends overwhelmed with handling email, etc.
+* Topics and Titles: “understanding painting materials”, “anatomy for portrait drawing”, “how to succeed as an introverted artist”, etc.
+
+I didn’t allow enough time for my students’ answers to come in and I had to keep moving. So I took what I had so far and looked at my big list. It was a gut decision to focus on accuracy. It’s something I have a lot of experience struggling with and I know how frustrating it can be. I’ve spent a lot of time thinking about it and coming up with solutions. So I knew I had a problem worth solving, and if not “a solution”, then at least something helpful to offer.
+
+### What tools did you use to outline it, write it, illustrate it, and lay it out?
+
+I’m a big tool geek, for better or worse. I love [Scrivener](https://www.literatureandlatte.com/scrivener.php) and decided to give it's sister app [Scapple](https://www.literatureandlatte.com/scapple.php) a go to do the initial brainstorming. I used Scrivener for the outline and draft of the 15 page ebook guide. It’s great for finding the structure of a text, and working on sections while keeping the big picture in view.
+
+I used Photoshop for the illustrations and a Canon 550D + Lightroom for the photos. The actual layout and publishing of the ebook was done in - are you ready for this? *drumroll* Google Docs! This was my first ebook project and I spent several hours trying to find a good editor. If I wasn’t on Windows, I think I would have used iBooks Author. I was able to stretch Google Docs just far enough for a publication this small and simple.
+
+### Did you get any help? (i.e. with editing, design, etc.)
+
+A handful of trusted friends gave feedback on the writing, editing, and design. It took a while until I felt comfortable sharing the draft version, but when I did I found it invaluable. I also got some good suggestions on the Landing Page from the Fizzle community.
+
+### Why did you decide to do pay what you want pricing?
+
+I went with PWYW because:
+
+* I really enjoy it as a customer. I'd like more people to be familiar with the model - and use it.
+* I want to make the guide available to everyone, without a paywall.
+* PWYW removes the upper ceiling of a fixed price model. It allows happy/supportive contributors to give as much as they like.
+* It feels easier to promote than a fixed price product.
+* It makes the transaction personal. Creator and customer get to interact directly.
+* If there is a sacrifice of profit in order to reach more people (which there might not be?), I'm willing to make it at this point in my journey.
+
+### What was the toughest part of the challenge, and how did you get through it?
+
+I think the most challenging aspect was to keep it simple and feasible. I keep having these big ideas that are so grandiose that they make great excuses for not following through! The time constraints of the challenge are very effective in preventing procrastination.
+
+### What were the elements of your launch plan?
+
+I'm embarrassed to admit that I wasn't aware of the concept of a launch plan. But this is what happened, reverse-engineered:
+
+* 1 week before: Gave respected friends a heads-up.
+* 3 days before: Posted teaser (screen capture of me editing video) on Facebook.
+* 2 days before: Posted teaser (first few seconds of video lesson) on Facebook and Instagram.
+* 1 day before: Posted landing page with email signup on Facebook.
+* Launch day: Posted sales page on Facebook and Instagram. Encouraged individual friends to take a look, and to share if they liked it. Sent launch announcement email to existing students.
+* 1 day after: Paul Foxton of learning-to-see.co.uk sent an email note about the guide to his list.
+* 2 days after: James Gurney made a blog post on Gurney Journey.
+
+3 days before launch.
+
+2 days before launch.
+
+1 day before launch.
+
+### Where did your customers come from?
+
+I think mostly from what happened within the first three days of the launch and from organic re-sharing on Facebook by a wider audience. I was completely surprised with the magnitude of the response!
+
+### What did you learn from your results/analytics? What would you do differently next time?
+
+I learned that people are willing to freely give money for something I’ve made. This was HUGE. It exploded some limits I had held about myself and I want to thank every person who made a contribution. It was an experience that will have some interesting ripple effects.
+
+* Range of contributions: $0 - $75
+* Contributed at least $1: 45%
+* Average contribution (all sales): $4.96
+* Average contribution (of $1.00 or more): $11.06
+
+On a more technical note: I have a great fear of being too pushy or salesy, so it was important to me that the copy and landing page was "just right". I put off sharing it until 48h before launch. I didn't expect much interest and thought nobody would sign up for an email list at that point, so close to launch. Well, I was wrong! People started asking about an email form, and around 50 signed up for email notification within the remaining 30 hours. Lessons: Put something up right away. Include an email signup form.
+
+### Any words of wisdom for the current SPL’ers?
+
+First: Just do it. Make something that you think is useful and put it out there. $0+ or $15+, doesn't matter. You'll learn so much!
+
+Second: in your life in general, meet people in person. Go to conferences, conventions, workshops, etc. I am very introverted and I struggle with this. But the fruits of this effort keep surprising and delighting me. Whatever success this guide may have had is thanks to the goodwill of kind allies, and creators like you and me.
+
+
+To Do: #SPLDay8
+------------------------------------------------------------
+
+### Make your launch plan
+
+Hopefully Dorian's story has helped you see how all the pieces you've been working on are about to come together.
+
+Since you've already been doing some basic marketing, you're ahead of the game. To get you across the finish line, write down your launch plan for the next few days in as much detail as possible. For each action item, include:
+
+* What you'll do to promote
+* Where you'll share it or who you'll tell about it
+* When you'll do it
+
+Here are some examples:
+
+* Sep 6: Post teaser video to Facebook and Instagram, mentioning people who helped along the way.
+* Sep 7: Tweet cover image using relevant hashtag
+* Sep 7: Send review copy to close friends with click to tweet link
+* Sep 7: Email full product details to current subscribers
+* Sep 8: Email link to buy + discount code to current subscribers.
+* Sep 8: Post link to product in relevant community (like Product Hunt or Sidebar)
+* Sep 9: Post link to blog post in a relevant Facebook group
+
+Take a picture or screen shot of your plan and share it in the Facebook group. Share the link to your Facebook post in the Assignment Log. You're getting so close!

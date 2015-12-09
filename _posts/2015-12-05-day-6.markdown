@@ -1,0 +1,45 @@
+---
+title: "Day 6: Work, assess, breathe"
+meta: It's the weekend! Use it as you need to.
+image: day-6-illustration.jpg
+layout: post
+---
+
+Work, assess, breathe
+------------------------------------------------------------
+
+It's Saturday! Use today as you need to—take a break, focus on producing, or catch up with some assignments.
+
+Ten days is a very short amount of time to build and launch a product. It's not enough time to overthink, plan an elaborate launch sequence, or include all the bells and whistles in your product. That's by design.
+
+The creators who did launch during the first SPL had to get creative to manage the time constraint and get their products out the door. Here are 4 strategies from participants that you can use if you're stuck.
+
+### Cut, cut, cut
+
+Follow the example of [Vic Sackville](http://blog.alliahverso.com.br/fazendo-um-jogo-no-twine-em-10-dias/) (aka Alliah) and remove any “nice-to-haves” (in this case, sound effects) from your product. If you focus on making the core of it great, no one will know anything is missing.
+
+### Play to your strengths
+
+Sarun was struggling to write his iOS programming guide in English (which isn’t his first language) when he realized that he didn’t have to write at all...
+
+> The solution I came up with this was I won’t write, I will draw! I forgot that I’m better at drawing than writing, there is no language involved in drawing and I used to doodle in my free time, so I start playing with this approach and I quite satisfied with this so far. It would be like picture book for programming.
+
+[Sarun Wongpatcharapakorn](https://medium.com/@sarunw/unrealistic-goal-1a128822daed)
+
+### Use what you already have
+
+You might already have the building blocks of your product lying around. Mine your notebooks, blog posts, or comments for potential material. Even emails can turn into something, as Christopher Hawkins found out.
+
+> Frantic, I began to dig through my e-mail. Here and there, spread out over the past 2 years, were messages from aspiring podcasters – messages that I had replied to with advice regarding developing a concept, recording on the cheap, focusing on the essentials of starting a show quickly. I also found messages to my assistant, containing guidelines for helping me to produce my podcast. In these messages, I would find the raw material for my book. Turning my attention to chat logs, I found that in the course of describing my product vision to my friends, I had written a significant amount of material that could serve as even more raw material for the book.
+
+[Christopher Hawkins](https://medium.com/@chris_hawk/how-to-launch-a-product-lose-a-contest-and-end-up-a-winner-anyway-b725ad8e71aa)
+
+### Focus on the feeling of accomplishment
+
+Your first few launches are not going to be perfect. That's not the point. The point is that you're learning, you're doing, you're building an audience, and you're getting the satisfaction of seeing your finished product in the world.
+
+> There is a huge difference between day dreaming and day doing. If you’re anything like me, you have side projects on your mind but you’ve never acted on them. When they’re just ideas though, you’ll never know where they could lead.
+
+[James Morris](https://medium.com/@moreofmorris/launching-my-first-product-e4d204a705da)
+
+That's it! No assignment for today. See you tomorrow.
